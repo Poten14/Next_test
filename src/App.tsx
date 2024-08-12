@@ -1,5 +1,5 @@
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">Hello world! wow!!!hi</h1>
+    <h1 className="text-3xl font-bold underline">Hello world! wow!!!hi yes</h1>
   );
 }
